@@ -1,1 +1,2 @@
 "New modification for stage test"
+#now, what if I forget to use de -m flag in commit command
